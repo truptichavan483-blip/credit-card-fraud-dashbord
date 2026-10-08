@@ -46,7 +46,7 @@ transactions and fraud patterns.
 
 ### Dashboard Preview
 
-!credit card fraud dashbord.png
+![Credit Card Fraud Dashboard]credit card fraud dashbord.png
 
 ## Dataset
 
